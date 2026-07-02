@@ -1,19 +1,20 @@
-# Dividend Master AI
+# 💰 Dividend Master AI
 
-O assistente inteligente para investidores da B3.
+Sistema inteligente para investidores focados em dividendos da B3.
 
-## Recursos
+## Objetivos
 
-- Dashboard
-- Carteira
-- Radar de Compra
-- Preço Justo
-- Simulador de Dividendos
-- Inteligência Artificial
+- Gerenciar carteira de ações
+- Calcular patrimônio automaticamente
+- Estimar dividendos
+- Radar de compra
+- Inteligência Artificial para análise da carteira
 
 ## Tecnologias
 
 - Next.js
+- React
+- TypeScript
 - FastAPI
 - PostgreSQL
 - Docker
